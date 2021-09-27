@@ -1,0 +1,1 @@
+# Repositório com os códigos e anotações de nossos estudos sobre séries temporais 
