@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/du/anaconda3/bin/python"
+    "python.pythonPath": "/home/du/anaconda3/bin/python",
+    "cSpell.language": "en,pt-BR"
 }
